@@ -9,7 +9,7 @@
 
 > X-Ai based solution - this assisting model will even explain how our model has come with this solution.
  
-> Federative solution -- utilizing different nodular hospital for participating in cross silo federated learning.
+> Federative solution -- utilizing different nodular hospital for participating in cross silo federated learning. (In process)
 
 ![image](https://user-images.githubusercontent.com/76607486/200162209-7bd08d68-7276-4d2a-ae85-c7be999866a8.png)
 
