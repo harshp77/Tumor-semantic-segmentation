@@ -3,7 +3,7 @@
 #### By Harsh Pandey and Subhanshu Arya
 
 ## Introduction
-
+Accurate segmentation of organs-at-risks (OARs) is the key step for efficient planning of radiation therapy for kidney tumor treatment. In this project, we use the UNet architecture to segment kidney, which will aid in image-guided radiation therapy (IGRT). MONAI is being used to load the three-dimensional data. And PyTorch for subsequent data training and testing. The UNet architecture used for training is described below:
 
 > Enabling remote communities for better healthcare monitoring, aiding inexperienced radiologists
 
@@ -11,7 +11,8 @@
  
 > Federative solution -- utilizing different nodular hospital for participating in cross silo federated learning. (In process)
 
-![image](https://user-images.githubusercontent.com/76607486/200162209-7bd08d68-7276-4d2a-ae85-c7be999866a8.png)
+![image](https://github.com/harshp77/Tumor-semantic-segmentation/assets/76607486/1ffe8ba8-5abb-484a-882b-7a0401c5f6b2)
+
 
 --------------------------------------Expected Output---------------------------------------- 
 
@@ -75,7 +76,7 @@ after activating the isolated local env install all the dependency using the req
 ```
 
 
-## Reproducing the results
+## results
 
 
 Executeing the Jupyter notebooks individually.
@@ -94,6 +95,11 @@ Each cell can be executed using `Shift + Enter`.
 Executing text cells does nothing and executing code cells runs the code
 and produces it's output.
 To execute the whole notebook, run all cells in order.
+
+
+So far after runing x epochs we have the following performance
+
+![image](https://user-images.githubusercontent.com/76607486/200165602-54f9f0da-fd80-4775-8f12-11f93327eb54.png)
 
 ### Additional Requirements
 
