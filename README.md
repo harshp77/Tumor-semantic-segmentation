@@ -208,9 +208,11 @@ We use [Weights and Biases](https://github.com/wandb/client) for keeping a track
 <!-- Contact -->
 ## 🤝 Contact
 
-Your Name - [Harsh Pandey]() - harsh20101@iiitnr.edu.in
+Name - [Harsh Pandey]() - harsh20101@iiitnr.edu.in
 
-Project Link: [https://github.com/harshp77/AIFD](https://github.com/harshp77/AIFD)
+Name - [Subhanshu Arya]() - subhanshu20101@iiitnr.edu.in
+
+
 
 
 
